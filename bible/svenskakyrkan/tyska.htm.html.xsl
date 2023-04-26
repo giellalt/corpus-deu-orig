@@ -176,9 +176,9 @@
         <parallel_text xml:lang="smn" location=""/>
         <parallel_text xml:lang="sms" location=""/>
         <parallel_text xml:lang="swe" location=""/>
-    <parallel_text location="franska.htm.html" xml:lang="fra"/>
-<parallel_text location="romani.htm.html" xml:lang="rmy-rka"/>
-<parallel_text location="spansk.htm.html" xml:lang="spa"/>
+    <parallel_text xml:lang="fra" location="franska.htm.html"/>
+<parallel_text xml:lang="rmy-rka" location="romani.htm.html"/>
+<parallel_text xml:lang="spa" location="spansk.htm.html"/>
 </xsl:variable>
 
     <!--
